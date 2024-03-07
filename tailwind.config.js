@@ -9,7 +9,8 @@ module.exports = {
       colors: {
         brend: {
           coffe: {
-            100: '#7F5539'
+            100: '#7F5539',
+            200: "#EDE0D4",
           }
         }
       }

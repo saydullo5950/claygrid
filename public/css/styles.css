@@ -625,9 +625,9 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(127 85 57 / var(--tw-bg-opacity));
 }
-.bg-pink-100 {
+.bg-brend-coffe-200 {
   --tw-bg-opacity: 1;
-  background-color: rgb(252 231 243 / var(--tw-bg-opacity));
+  background-color: rgb(237 224 212 / var(--tw-bg-opacity));
 }
 .bg-white {
   --tw-bg-opacity: 1;
@@ -798,9 +798,9 @@ video {
     margin-bottom: calc(0px * var(--tw-space-y-reverse));
   }
 
-  .sm\:bg-pink-100 {
+  .sm\:bg-brend-coffe-200 {
     --tw-bg-opacity: 1;
-    background-color: rgb(252 231 243 / var(--tw-bg-opacity));
+    background-color: rgb(237 224 212 / var(--tw-bg-opacity));
   }
 
   .sm\:px-10 {
